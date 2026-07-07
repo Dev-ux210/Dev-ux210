@@ -15,4 +15,4 @@ I am currently learning & growing and open to help on frontend and AI support<br
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Dev-ux210&icon=0&color=White)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Dev-ux210&icon=0)](https://visitcount.itsvg.in)
