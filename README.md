@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently learning & growing and open to help on frontend and AI support<br>
+I am currently learning & growing and open to help on frontend and AI support
+
+Co-Founder of KAJU OPEN SOURCE<br>
 
 
 ## 🌐 Socials:
